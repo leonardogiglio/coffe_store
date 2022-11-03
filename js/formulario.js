@@ -1,3 +1,4 @@
+(function () {
 
 
 //Objeto con propiedades de formulario
@@ -70,3 +71,5 @@ metFormulario = {
 }
 
 metFormulario.inicio();
+
+} ())
