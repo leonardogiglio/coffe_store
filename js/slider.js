@@ -1,3 +1,5 @@
+(function(){
+
 
 //Objeto con propiedades del slider
 
@@ -32,3 +34,6 @@ let metSlider = {
 }
 
 metSlider.inicio();
+
+}())
+
